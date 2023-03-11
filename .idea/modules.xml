@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ParallelUniverse/Jupiter/Jupiter.iml" filepath="$PROJECT_DIR$/ParallelUniverse/Jupiter/Jupiter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mars/Mars.iml" filepath="$PROJECT_DIR$/Mars/Mars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParallelUniverse/ParallelUniverse.iml" filepath="$PROJECT_DIR$/ParallelUniverse/ParallelUniverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParallelUniverse/Pluto/Pluto.iml" filepath="$PROJECT_DIR$/ParallelUniverse/Pluto/Pluto.iml" />
       <module fileurl="file://$PROJECT_DIR$/Saturn/Saturn.iml" filepath="$PROJECT_DIR$/Saturn/Saturn.iml" />
       <module fileurl="file://$PROJECT_DIR$/UniverseProject.iml" filepath="$PROJECT_DIR$/UniverseProject.iml" />
     </modules>
